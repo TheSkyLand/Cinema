@@ -78,10 +78,11 @@ public class Films {
         return "Partner{" +
                 "id=" + _id +
                 ", title='" + _title + '\'' +
-                ", shorttilte='" + _short_title  + '\'' +
+                ", short_tilte='" + _short_title  + '\'' +
                 ", description='" + _description + '\'' +
                 ", link='" + _link + '\'' +
                 '}';
     }
 
 }
+
